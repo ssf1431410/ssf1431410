@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+나는 이러고 저러고
+
 <!--
 **ssf1431410/ssf1431410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
